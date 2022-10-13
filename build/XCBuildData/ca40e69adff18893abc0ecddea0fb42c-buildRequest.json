@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9847b0c6ef8a6fdc5f32ec2f6be1a5b49a"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e5401eaf5a0c52d7b83e0c67372d5382"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98b4afb9339f8254d8a16046d35f31beb1"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c55f754f2a4256631cf6e7955c79207c"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9881644adaf2ad701878e9176138fbdacd"
+    }
+  ],
+  "containerPath" : "/Users/vanngocan/Desktop/DemoProject/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/vanngocan/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vanngocan/Library/Developer/Xcode/DerivedData/Pods-gbxnbhjgzucgavbksyxajozurvnp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vanngocan/Library/Developer/Xcode/DerivedData/Pods-gbxnbhjgzucgavbksyxajozurvnp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
